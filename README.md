@@ -1,6 +1,7 @@
+# Machine Learning Essentials
 * tackling data types often found in real-world datasets (missing values, categorical variables),
-design pipelines to improve the quality of your machine learning code,
-use advanced techniques for model validation (cross-validation),
-build state-of-the-art models that are widely used to win Kaggle competitions (XGBoost), and
-avoid common and important data science mistakes (leakage).
-Along the way, you'll apply your knowledge by completing a hands-on exercise with real-world data for each new topic. The hands-on exercises use data from the Housing Prices Competition for Kaggle Learn Users, where you'll use 79 different explanatory variables (such as the type of roof, number of bedrooms, and number of bathrooms) to predict home prices. You'll measure your progress by submitting
+* designing pipelines to improve the quality of your machine learning code,
+* using advanced techniques for model validation (cross-validation),
+* building state-of-the-art models that are widely used to win Kaggle competitions (XGBoost),
+* avoiding common and important data science mistakes (leakage).
+
